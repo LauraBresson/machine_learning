@@ -9,5 +9,3 @@ Cher's closet consists of three different processes :
 
 Within the scope of my program at BrainStation, I focused on the first step and used a Convolutional Neural Network (CNN) named MobileNet to classify images from a dataset available [on Kaggle](https://www.kaggle.com/paramaggarwal/fashion-product-images-small). 
 With time, I'll keep working at it and improve the performance of my neural network as well as finding solutions to step 2 and 3. 
-
-I'm totally open to feedback and suggestions. 
