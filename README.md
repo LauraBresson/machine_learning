@@ -1,4 +1,4 @@
-# clueless_closet
+# clueless_closet (retired project)
 The Clueless closet project is a three steps project I initiated during the data science bootcamp I just completed at [BrainStation](https://brainstation.io). It is inspired by Cher's closet from the movie Clueless (1995), movie friends kept referencing when I would talk to them about my project. 
 If you're unfamiliar with Clueless (1995), here is a [YouTube video for you](https://www.youtube.com/watch?v=XNDubWJU0aU). 
 
