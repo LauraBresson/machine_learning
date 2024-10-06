@@ -44,12 +44,14 @@ This project focuses on building predictive models to forecast voluntary employe
 
 **Models Used**
 
-- Logistic Regression
-- Decision Tree
-- Naive Bayes
-- Random Forest
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+- Regular models
+  - Logistic Regression
+  - Decision Tree
+  - Naive Bayes
+- Ensemble models
+  - Random Forest
+  - K-Nearest Neighbors (KNN)
+  - Support Vector Machine (SVM)
 
 **Technical Details**
 
