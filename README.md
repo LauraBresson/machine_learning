@@ -1,6 +1,6 @@
 # Machine learning projects
 
-1. Fashion Image Recognition
+1. Fashion Image Recognition (original work 2019, 2025 update in progress)
 2. Predictive Modeling for Voluntary Attrition
 
 ## 1. Fashion Image Recognition
@@ -16,14 +16,10 @@ During my program at BrainStation, I concentrated on the first phase. I employed
 3. Recommendation System: Providing suggestions for improvement if the outfit score is below 5.
 
 **Technical Details**
-- Model Used: MobileNet (CNN)
+- Model Used: MobileNet (CNN) in 2019
 - Dataset: Fashion Product Images (Small) from Kaggle
 - Frameworks: TensorFlow, Keras
 - Tools: Python, Jupyter Notebook
-
-**Future Work**
-- performance enhancement, including an update to a more recent model
-- developing a recommendation system solution
 
 ## 2. Attrition modelling
 
