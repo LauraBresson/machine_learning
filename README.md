@@ -1,6 +1,6 @@
 # Machine learning projects
 
-1. Fashion Image Recognition (original work 2019, 2025 update in progress)
+1. Fashion Image Recognition (original work 2019, updated in 2025)
 2. Predictive Modeling for Voluntary Attrition
 
 ## 1. Fashion Image Recognition
