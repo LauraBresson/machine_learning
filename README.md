@@ -12,11 +12,12 @@ The Clueless Closet project is a comprehensive machine learning initiative that 
 
 1. Image Classification: Categorizing fashion product images (e.g., "pants," "tops," "shoes," "bags") *(Completed)*
 During my program at BrainStation, I concentrated on the first phase. I employed a Convolutional Neural Network (CNN) architecture, specifically MobileNet, to classify images from the Fashion MNIST dataset publicly available on Kaggle.
-2. Outfit Scoring: Rating how well different pieces of clothing complement each other on a scale from 0 to 10.
-3. Recommendation System: Providing suggestions for improvement if the outfit score is below 5.
+During the 2025 update, a fifth class was added for watches.
+3. Outfit Scoring: Rating how well different pieces of clothing complement each other on a scale from 0 to 10.
+4. Recommendation System: Providing suggestions for improvement if the outfit score is below 5.
 
 **Technical Details**
-- Model Used: MobileNet (CNN) in 2019
+- Model Used: MobileNet (CNN) in 2019, MobileNetV3Small in 2025
 - Dataset: Fashion Product Images (Small) from Kaggle
 - Frameworks: TensorFlow, Keras
 - Tools: Python, Jupyter Notebook
