@@ -1,7 +1,8 @@
-# Machine learning projects
+# Machine learning & Statistics projects
 
 1. Fashion Image Recognition (original work 2019, updated in 2025)
 2. Predictive Modeling for Voluntary Attrition
+3. Chi-squared correlations for descriptive analysis
 
 ## 1. Fashion Image Recognition
 **Project Overview**
@@ -54,4 +55,18 @@ This project focuses on building predictive models to forecast voluntary employe
 
 - Libraries Used: NumPy, Pandas, Scikit-learn
 - Frameworks: Scikit-learn for model implementation
+- Tools: Python, Jupyter Notebook
+
+## 3. Chi-squared correlations
+
+**Project Description** 
+
+1. Basic Exploratory Data Analysis (EDA)
+2. Dataframe preparation for statistical analysis
+3. Chi-squared correlations table
+
+**Technical details**
+
+- Libraries: Numpy, Pandas, scipy.stats
+- Framework: scipy.stats for chi-squared contingency tables
 - Tools: Python, Jupyter Notebook
